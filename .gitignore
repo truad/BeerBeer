@@ -25,3 +25,4 @@ build/Release
 node_modules
 
 # Hidden directory created by JetBrains products
+.idea
